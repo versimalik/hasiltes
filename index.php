@@ -133,7 +133,7 @@ $hsl = mysqli_fetch_array($que);
             <input type="text" name="nisn" class="form-control" placeholder="NISN atau USERNAME" required>
             <input type="text" name="password" class="form-control" placeholder="PASSWORD" required>
             <!-- <span class="input-group-btn"> -->
-                <button class="btn btn-primary btn-block" type="submit" name="submit">Daftar Ulang</button>
+                <button class="btn btn-primary btn-block" type="submit" name="submit">Lihat Hasil Tes</button>
             <!-- </span> -->
         </div>
     </form>
@@ -157,7 +157,7 @@ $hsl = mysqli_fetch_array($que);
             <input type="text" name="nisn" class="form-control" placeholder="NISN atau USERNAME" required>
             <input type="text" name="password" class="form-control" placeholder="PASSWORD" required>
             <!-- <span class="input-group-btn"> -->
-                <button class="btn btn-primary btn-block" type="submit" name="submit">Daftar Ulang</button>
+                <button class="btn btn-primary btn-block" type="submit" name="submit">Lihat Hasil Tes</button>
             <!-- </span> -->
         </div>
     </form>
